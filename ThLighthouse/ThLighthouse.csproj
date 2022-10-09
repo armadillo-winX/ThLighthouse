@@ -12,6 +12,7 @@
     <Copyright>Copyright © 2022 Mashiro Inagi</Copyright>
     <UseWindowsForms>True</UseWindowsForms>
     <Platforms>AnyCPU;x64</Platforms>
+    <Version>0.0.1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
